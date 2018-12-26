@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="11">
+      <Unit0>
+        <Filename Value="AgnaldoBrodis.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos Y="16"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="UMain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="565"/>
+        <CursorPos X="3" Y="578"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="Commandos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="fmod.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="742"/>
+        <CursorPos X="4" Y="767"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="fmodtypes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="u_timer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="u_Timer"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="41" Y="6"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="uMapa.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="15" Y="73"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="uObjeto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\lazarus\lcl\forms.pp"/>
+        <UnitName Value="Forms"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="1542"/>
+        <CursorPos X="32" Y="1559"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="Release\UMain.lfm"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="..\Agnaldo Brodis Full Edition\ConverterBackup\UMain.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="10"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit10>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="199" TopLine="186"/>
+      </Position1>
+      <Position2>
+        <Filename Value="uMapa.pas"/>
+        <Caret Line="348" TopLine="334"/>
+      </Position2>
+      <Position3>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="16" Column="32" TopLine="3"/>
+      </Position3>
+      <Position4>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="71" Column="22" TopLine="51"/>
+      </Position4>
+      <Position5>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="578" Column="3" TopLine="565"/>
+      </Position5>
+      <Position6>
+        <Filename Value="uMapa.pas"/>
+        <Caret Line="348" TopLine="334"/>
+      </Position6>
+      <Position7>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="852" Column="9" TopLine="764"/>
+      </Position7>
+      <Position8>
+        <Filename Value="uMapa.pas"/>
+        <Caret Line="206" TopLine="190"/>
+      </Position8>
+      <Position9>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="147" Column="24" TopLine="134"/>
+      </Position9>
+      <Position10>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="138" Column="15" TopLine="134"/>
+      </Position10>
+      <Position11>
+        <Filename Value="uMapa.pas"/>
+        <Caret Line="195" Column="19" TopLine="190"/>
+      </Position11>
+      <Position12>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="175" Column="55" TopLine="167"/>
+      </Position12>
+      <Position13>
+        <Filename Value="UMain.pas"/>
+      </Position13>
+      <Position14>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="767" Column="27" TopLine="746"/>
+      </Position14>
+      <Position15>
+        <Filename Value="uMapa.pas"/>
+        <Caret Line="206" TopLine="193"/>
+      </Position15>
+      <Position16>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="767" Column="27" TopLine="746"/>
+      </Position16>
+      <Position17>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="806" Column="16" TopLine="803"/>
+      </Position17>
+      <Position18>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="174" Column="65" TopLine="161"/>
+      </Position18>
+      <Position19>
+        <Filename Value="uMapa.pas"/>
+        <Caret Line="371" Column="34" TopLine="363"/>
+      </Position19>
+      <Position20>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="956" TopLine="935"/>
+      </Position20>
+      <Position21>
+        <Filename Value="UMain.pas"/>
+      </Position21>
+      <Position22>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="23" Column="27" TopLine="2"/>
+      </Position22>
+      <Position23>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="871" Column="2" TopLine="860"/>
+      </Position23>
+      <Position24>
+        <Filename Value="AgnaldoBrodis.lpr"/>
+        <Caret Line="13" Column="23"/>
+      </Position24>
+      <Position25>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="782" Column="21" TopLine="768"/>
+      </Position25>
+      <Position26>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="147" Column="17" TopLine="133"/>
+      </Position26>
+      <Position27>
+        <Filename Value="uMapa.pas"/>
+        <Caret Line="73" Column="15"/>
+      </Position27>
+      <Position28>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="15" Column="67"/>
+      </Position28>
+      <Position29>
+        <Filename Value="uMapa.pas"/>
+        <Caret Line="73" Column="15"/>
+      </Position29>
+      <Position30>
+        <Filename Value="UMain.pas"/>
+        <Caret Line="578" Column="3" TopLine="565"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
